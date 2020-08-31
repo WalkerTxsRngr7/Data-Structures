@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\OTC\Data-Structures\Froggys Book and Game Store\Froggys Book and Game Store\obj\Debug\Froggys Book and Game Store.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OTC\Data-Structures\Froggys Book and Game Store\Froggys Book and Game Store\obj\Debug\Froggys Book and Game Store.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OTC\Data-Structures\Froggys Book and Game Store\Froggys Book and Game Store\bin\Debug\Froggys Book and Game Store.exe.config
+C:\Users\User\Desktop\OTC\Data-Structures\Froggys Book and Game Store\Froggys Book and Game Store\bin\Debug\Froggys Book and Game Store.exe
+C:\Users\User\Desktop\OTC\Data-Structures\Froggys Book and Game Store\Froggys Book and Game Store\bin\Debug\Froggys Book and Game Store.pdb
+C:\Users\User\Desktop\OTC\Data-Structures\Froggys Book and Game Store\Froggys Book and Game Store\obj\Debug\Froggys Book and Game Store.exe
+C:\Users\User\Desktop\OTC\Data-Structures\Froggys Book and Game Store\Froggys Book and Game Store\obj\Debug\Froggys Book and Game Store.pdb

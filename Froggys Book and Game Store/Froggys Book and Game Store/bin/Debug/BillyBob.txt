@@ -1,0 +1,8 @@
+Quantity   | Item                 |    Price |    Total
+-------------------------------------------------------
+ 2         | Zombies Surfing      |   $15.99 |   $31.98
+ 3         | World of Crafting    |    $4.95 |   $14.85
+
+Subtotal                                         $46.83
+Tax                                               $3.56
+Total                                            $50.39
