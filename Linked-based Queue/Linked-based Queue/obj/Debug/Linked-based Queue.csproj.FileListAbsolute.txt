@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\OTC\Data-Structures\Linked-based Queue\Linked-based Queue\bin\Debug\Linked-based Queue.exe.config
+C:\Users\User\Desktop\OTC\Data-Structures\Linked-based Queue\Linked-based Queue\bin\Debug\Linked-based Queue.exe
+C:\Users\User\Desktop\OTC\Data-Structures\Linked-based Queue\Linked-based Queue\bin\Debug\Linked-based Queue.pdb
+C:\Users\User\Desktop\OTC\Data-Structures\Linked-based Queue\Linked-based Queue\obj\Debug\Linked-based Queue.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OTC\Data-Structures\Linked-based Queue\Linked-based Queue\obj\Debug\Linked-based Queue.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OTC\Data-Structures\Linked-based Queue\Linked-based Queue\obj\Debug\Linked-based Queue.exe
+C:\Users\User\Desktop\OTC\Data-Structures\Linked-based Queue\Linked-based Queue\obj\Debug\Linked-based Queue.pdb

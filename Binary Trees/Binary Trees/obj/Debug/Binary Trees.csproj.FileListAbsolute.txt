@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\OTC\Data-Structures\Binary Trees\Binary Trees\bin\Debug\Binary Trees.exe.config
+C:\Users\User\Desktop\OTC\Data-Structures\Binary Trees\Binary Trees\bin\Debug\Binary Trees.exe
+C:\Users\User\Desktop\OTC\Data-Structures\Binary Trees\Binary Trees\bin\Debug\Binary Trees.pdb
+C:\Users\User\Desktop\OTC\Data-Structures\Binary Trees\Binary Trees\obj\Debug\Binary Trees.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OTC\Data-Structures\Binary Trees\Binary Trees\obj\Debug\Binary Trees.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OTC\Data-Structures\Binary Trees\Binary Trees\obj\Debug\Binary Trees.exe
+C:\Users\User\Desktop\OTC\Data-Structures\Binary Trees\Binary Trees\obj\Debug\Binary Trees.pdb

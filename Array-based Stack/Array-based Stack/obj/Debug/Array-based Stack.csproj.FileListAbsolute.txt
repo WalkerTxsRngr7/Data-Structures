@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Array-based Stack\Array-based Stack\bin\Debug\Array-based Stack.exe.config
+C:\Users\User\source\repos\Array-based Stack\Array-based Stack\bin\Debug\Array-based Stack.exe
+C:\Users\User\source\repos\Array-based Stack\Array-based Stack\bin\Debug\Array-based Stack.pdb
+C:\Users\User\source\repos\Array-based Stack\Array-based Stack\obj\Debug\Array-based Stack.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Array-based Stack\Array-based Stack\obj\Debug\Array-based Stack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Array-based Stack\Array-based Stack\obj\Debug\Array-based Stack.exe
+C:\Users\User\source\repos\Array-based Stack\Array-based Stack\obj\Debug\Array-based Stack.pdb

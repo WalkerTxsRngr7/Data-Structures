@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Random Sorting\Random Sorting\obj\Debug\Random Sorting.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Random Sorting\Random Sorting\obj\Debug\Random Sorting.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Random Sorting\Random Sorting\bin\Debug\Random Sorting.exe.config
+C:\Users\User\source\repos\Random Sorting\Random Sorting\bin\Debug\Random Sorting.exe
+C:\Users\User\source\repos\Random Sorting\Random Sorting\bin\Debug\Random Sorting.pdb
+C:\Users\User\source\repos\Random Sorting\Random Sorting\obj\Debug\Random Sorting.exe
+C:\Users\User\source\repos\Random Sorting\Random Sorting\obj\Debug\Random Sorting.pdb
